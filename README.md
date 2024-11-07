@@ -1,4 +1,3 @@
 # projeto-site
  Projeto de um site criado durante o curso de Git e GitHub
 
-`Branch destinada a parte do conteúdo do site`
